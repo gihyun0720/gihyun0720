@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=gihyun0720&theme=dark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
 
 
 <a href="https://github.com/gihyun0720/github-readme-stats">
